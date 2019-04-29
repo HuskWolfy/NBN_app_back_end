@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo python server.py
+sudo python app_server.py
